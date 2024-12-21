@@ -1,0 +1,62 @@
+{"RAT":[
+    {
+    "Month": "JANUARY",
+    "Revenue": 3952,
+    "Transaction": 4506
+  }, {
+    "Month": "FEBRUARY",
+    "Revenue": 3609,
+    "Transaction": 4346
+  }, {
+    "Month": "MARCH",
+    "Revenue": 6774,
+    "Transaction": 4907
+  }, {
+    "Month": "APRIL",
+    "Revenue": 8321,
+    "Transaction": 8011
+  }, {
+    "Month": "MAY",
+    "Revenue": 1377,
+    "Transaction": 679
+  }, {
+    "Month": "JUNE",
+    "Revenue": 1245,
+    "Transaction": 3833
+  }, {
+    "Month": "JULY",
+    "Revenue": 7875,
+    "Transaction": 7777
+  }, {
+    "Month": "AUGUST",
+    "Revenue": 2230,
+    "Transaction": 4020
+  }, {
+    "Month": "SEPTEMBER",
+    "Revenue": 3032,
+    "Transaction": 5976
+  }
+
+
+  
+],
+"categories": [
+    {
+      "value": 40,
+      "heading": "Laptops"
+    },
+
+    {
+      "value": 100,
+      "heading": "Shoes"
+    },
+    {
+      "value": 80,
+      "heading": "Cameras"
+    },
+    {
+      "value": 60,
+      "heading": "Jeans"
+    }
+  ]
+  }
