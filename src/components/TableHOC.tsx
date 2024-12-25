@@ -40,7 +40,7 @@ function TableHOC<T>({
             {table.getHeaderGroups().map(headerGroup => (
 
               <tr key={headerGroup.id}>{headerGroup.headers.map(header => (
-                <th key={header.id} >{flexRender(header.column.columnDef.header, header.getContext())}</th>
+                <th key={header.id}>{flexRender(header.column.columnDef.header, header.getContext())}</th>
               ))}</tr>
 
             ))}
